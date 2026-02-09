@@ -7,20 +7,24 @@
   </provides>
   <launchable type="desktop-id">chat.stoat.StoatDesktop.desktop</launchable>
   <name>Stoat</name>
-  <developer id="chat.revolt">
+  <developer id="chat.stoat">
     <name>Paul Makles</name>
   </developer>
   <summary>The chat app where you are the main character</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>AGPL-3.0</project_license>
-  <icon type="remote" height="256" width="256">https://raw.githubusercontent.com/revoltchat/desktop/master/build/icons/icon.png</icon>
+  <icon type="remote" height="256" width="256">
+    https://raw.githubusercontent.com/stoatchat/assets/master/desktop/icon.png</icon>
   <description>
-    <p>Revolt is one of the best ways to stay connected with your friends and community without sacrificing any usability. We focus only on the user, and you can be sure that your conversations are confidential and your data is secure.</p>
+    <h2>Text channels,<br /> done right.</h2>
+    <p>Attach images. 🐈 <a>@mention</a> users.<br />
+      <a href="">Link</a> to websites. Welcome to the
+      21st century.</p>
   </description>
   <screenshots>
     <screenshot type="default">
       <caption>Main window</caption>
-      <image>https://raw.githubusercontent.com/revoltchat/.github/master/screenshots/2022-03.png</image>
+      <image>./screenshot.png</image>
     </screenshot>
   </screenshots>
   <releases>
